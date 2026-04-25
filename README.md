@@ -51,8 +51,6 @@ Dashboard Wazuh berfungsi sebagai pusat observasi visual yang menyajikan data ko
 
 ---
 
-### ### Keunggulan Proyek (Competitive Edge)
-Proyek Mini SOC kami memiliki keunggulan kompetitif melalui optimasi **Pipeline Latency** yang memungkinkan deteksi ancaman secara *near real-time* (< 15 detik). Kami mengonfigurasi **Severity Precision** yang mampu mengorelasikan log spesifik untuk memicu Alert Level 12 pada serangan kritis, memastikan visibilitas penuh terhadap ancaman yang seringkali terlewat. Sistem kami juga memiliki **Network Integration** yang stabil pada lingkungan hybrid WSL2-Windows, didukung oleh **Intelligence Context** framework MITRE ATT&CK dan **Forensic Capability** mumpuni untuk investigasi pasca-insiden yang akurat.
 
 ## Keunggulan Proyek (Competitive Edge)
 Apa yang membuat projek kelompok kami lebih baik daripada projek kelompok lain?
